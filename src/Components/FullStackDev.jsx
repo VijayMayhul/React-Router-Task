@@ -73,24 +73,15 @@ function FullStackDev() {
     {
       id: 8,
       title:
-        "Top Full Stack Development Webinars and Workshops",
+        "Roles & Responsibilities of Full Stack Developers in 2024",
       description:
-        "Are you keen to elevate your web development skills and master the art of Full",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-Full-Stack-Development-Webinars-and-Workshops.jpg",
-      date: '29 July 2023',
+        "Do you want to become a full stack developer? If yes, you must definitely know",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/roles_and_responsibilities_of_full_stack_developer_1x.webp",
+      date: '12 July 2023',
       comment : 'No Comments'
     },
     {
       id: 9,
-      title: "The Future & Scope of Full-Stack Developers in India",
-      description:
-        "Have you ever wondered about the future of full stack developers in India? These talented",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/24746653_7002417-1-1536x1024.jpg",
-      date: '27 July 2023',
-      comment : 'No Comments'
-    },
-    {
-      id: 10,
       title: "Best Ways to Learn Full Stack Development in 2024",
       description:
         "Full stack development is and will be a promising and in-demand career in the upcoming",
@@ -99,21 +90,12 @@ function FullStackDev() {
       comment : 'No Comments'
     },
     {
-      id: 11,
+      id: 10,
       title: "How Long Would It Take to Be a Full Stack Developer?",
       description:
         "Have you ever wondered how much time it would take to become a skilled Full",
       image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-1536x804.webp",
       date: '4 August 2023',
-      comment : 'No Comments'
-    },
-    {
-      id: 12,
-      title: "Top 10 Full-Stack Developer Frameworks in 2024",
-      description:
-        "In the ever-evolving world of technology, the demand for full stack developers is at an",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
-      date: '27 July 2023',
       comment : 'No Comments'
     },
   ];

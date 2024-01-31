@@ -24,54 +24,6 @@ function CyberSecurity() {
     },
     {
       id: 3,
-      title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
-      description:
-        "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-1536x864.png",
-      date: '27 December 2022',
-      comment : 'No Comments'
-    },
-    {
-      id: 4,
-      title:
-        "What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
-      description:
-        "Look around today, you will witness that we are more reliant on technology and devices",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/12/cybersecuity-.gif",
-      date: '20 December 2022',
-      comment : 'No Comments'
-    },
-    {
-      id: 5,
-      title:
-        "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
-      description:
-        "Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
-      date: '22 June 2022',
-      comment : 'No Comments'
-    },
-    {
-      id: 6,
-      title:
-        "Top 7 Cyber Security Attacks in Real Life",
-      description:
-        "Cyber security attacks are the type of actions that are designed to destroy, steal, modify,",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact-1536x480.jpg",
-      date: '10 June 2022 ',
-      comment : 'No Comments'
-    },
-    {
-      id: 7,
-      title: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
-      description:
-        "There is something fascinating about a lone hacker in black hoodies using a single system",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-1536x804.png",
-      date: '1 March 2021',
-      comment : 'No Comments'
-    },
-    {
-      id: 8,
       title:
         "The Ultimate Cybersecurity Roadmap for Beginners",
       description:

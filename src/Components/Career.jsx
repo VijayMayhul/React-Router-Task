@@ -15,11 +15,11 @@ function Career() {
     },
     {
       id: 2,
-      title: "UI/UX Designer Job Description and Roles & Responsibilities",
+      title: "Best 11 Product-Based Companies for Product Managers in India ",
       description:
-        "UI UX is the abbreviated word that’s been rocking the trend over the years, especially",
-      image: "https://www.guvi.in/blog/wp-content/uploads/2023/07/feature-image-UIUX-Designer-Roles-Responsibilities-Job-Description.jpg",
-      date: '13 December 2023',
+        "Who is a product manager? What are the best product-based companies for product managers in",
+      image: "https://www.guvi.in/blog/wp-content/uploads/2023/11/Feature-image-Product-Based-Companies-for-Product-Managers-in-India.webp",
+      date: '14 November 2023',
       comment : 'No Comments'
     },
     {
