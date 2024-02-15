@@ -8,6 +8,7 @@ Card.propTypes = {
     image: PropTypes.string.isRequired,
     date: PropTypes.string.isRequired,
     comment: PropTypes.string.isRequired,
+    category : PropTypes.string.isRequired
   }).isRequired,
 };
 

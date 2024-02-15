@@ -10,21 +10,23 @@ import DataScience from "./Components/DataScience";
 import CyberSecurity from "./Components/CyberSecurity";
 import Career from "./Components/Career";
 import Footer from "./Components/Footer";
+import { CardData } from "./data";
 
 function App() {
+  let data = CardData;
   return (
     <>
       <BrowserRouter>
         <Menu></Menu>
         <Routes>
-          <Route path="/" element={<AllCom />}></Route>
+          <Route path="/" element={<AllCom data={data}/>}></Route>
           <Route
             path="/fullStackDevelopment"
-            element={<FullStackDev />}
+            element={<FullStackDev data={data}/>}
           ></Route>
-          <Route path="/dataScience" element={<DataScience />}></Route>
-          <Route path="/cyberSecurity" element={<CyberSecurity />}></Route>
-          <Route path="/career" element={<Career />}></Route>
+          <Route path="/dataScience" element={<DataScience data={data}/>}></Route>
+          <Route path="/cyberSecurity" element={<CyberSecurity data={data}/>}></Route>
+          <Route path="/career" element={<Career data={data}/>}></Route>
         </Routes>
         <Footer></Footer>
       </BrowserRouter>
